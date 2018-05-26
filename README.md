@@ -1,25 +1,33 @@
-LBM-1
+Repository for Projects submitted in the course "Project Oriented Software Lab" in the Summer Semester 2018. Course by PD Dr. Gudrun Thäter & 	Dr. Mathias J. Krause.
 
-/*  Lattice Boltzmann sample, written in C++, using the OpenLB
- *  library
- *
- *  Copyright (C) 2006 - 2012 Mathias J. Krause
- *  E-mail contact: info@openlb.net
- *  The most recent release of OpenLB can be downloaded at
- *  <http://www.openlb.net/>
- *
- *  This program is free software; you can redistribute it and/or
- *  modify it under the terms of the GNU General Public License
- *  as published by the Free Software Foundation; either version 2
- *  of the License, or (at your option) any later version.
- *
- *  This program is distributed in the hope that it will be useful,
- *  but WITHOUT ANY WARRANTY; without even the implied warranty of
- *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- *  GNU General Public License for more details.
- *
- *  You should have received a copy of the GNU General Public
- *  License along with this program; if not, write to the Free
- *  Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
- *  Boston, MA  02110-1301, USA.
- */
+
+* "Report - JousefM.pdf" - Documentation for the course first submission 
+
+* "cavity2d.cpp" - C++ code for the Lid-Driven Cavity
+
+* "cylinder2d.cpp" - C++ code for the Kármán Vortex Street (adaptions have been made - in order to remove the second object adapt lines inside the code)
+
+
+Lattice Boltzmann sample, written in C++, using the OpenLB
+library
+
+Copyright (C) 2006 - 2012 Mathias J. Krause
+E-mail contact: info@openlb.net
+The most recent release of OpenLB can be downloaded at
+<http://www.openlb.net/>
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+ 
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+ 
+You should have received a copy of the GNU General Public
+License along with this program; if not, write to the Free
+Software Foundation, Inc., 51 Franklin Street, Fifth Floor,
+Boston, MA  02110-1301, USA.
+ 
